@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCJArAjYqIhyZcgU/PM4r5ZvHI0KOOXuZ1PYVaXiil6CASAPDcAHnkvD3exzZ/6Sk3f6JyPUUJeW+yBI3cYKpQ==",
+  "success": true,
+  "projectFilePath": "H:\\HSRSimulatorProject\\DataAccessLayerInterface\\DataAccessLayerInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy Hoang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Huy Hoang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

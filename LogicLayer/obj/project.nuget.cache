@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gx2lbzKMT37FKOCxKrnSKzpGg34LKHcWO+BoFbQjZxWGwkTt9yJbtbNQir/6SIX5uGz9QP8jPo6aaomVtUh4yg==",
+  "success": true,
+  "projectFilePath": "H:\\HSRSimulatorProject\\LogicLayer\\LogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy Hoang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Huy Hoang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+H:\HSRSimulatorProject\HSRSimulator\bin\Debug\HSRSimulator.exe.config
+H:\HSRSimulatorProject\HSRSimulator\bin\Debug\HSRSimulator.exe
+H:\HSRSimulatorProject\HSRSimulator\bin\Debug\HSRSimulator.pdb
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\WpfPresentation.csproj.AssemblyReference.cache
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\MainWindow.g.cs
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\App.g.cs
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\HSRSimulator_MarkupCompile.cache
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\HSRSimulator_MarkupCompile.lref
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\MainWindow.baml
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\HSRSimulator.g.resources
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\HSRSimulator.Properties.Resources.resources
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\HSRSimulator.exe
+H:\HSRSimulatorProject\HSRSimulator\obj\Debug\HSRSimulator.pdb
